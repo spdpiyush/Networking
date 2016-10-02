@@ -1,0 +1,11 @@
+
+#PING 
+
+Ping Stands For Packet Internet Groper.
+Ping is a Function That Uses ICMP Protocol,
+Ping Is Used In Networking To Check The Reachability or Connectivity.
+
+Ex - Ping 192.168.0.1
+
+It Means Device Sends An ICMP (Internet Contro Message Protocol) Echo Message To The Destination For Which, We Are Trying To Check The Reachability.
+If an ICMP Echo Reply Comes Back Then Devices Knows That There Is Bi-Directional Reachability.
